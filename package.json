@@ -10,5 +10,13 @@
   },
   "devDependencies": {
     "vite": "^4.3.2"
+  },
+  "dependencies": {
+    "@lottiefiles/lottie-js": "^0.4.1",
+    "@lottiefiles/lottie-player": "^1.7.1",
+    "bodymovin": "^4.13.0",
+    "gsap": "^3.11.5",
+    "lottie-web": "^5.11.0",
+    "sass": "^1.62.1"
   }
 }
